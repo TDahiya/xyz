@@ -1,0 +1,7 @@
+Google api key : AIzaSyDDj-dJB--koVwHy5__aGpO4fW7cCMuaJs
+
+
+EXPO_PUBLIC_SUPABASE_URL=https://rigtifiadlzjcwaumwfg.supabase.co
+EXPO_PUBLIC_SUPABASE_KEY=sb_publishable_rV31KJUgiUcS80AZQaH9Iw_tPT1mFyO
+
+Superbase: sb_secret_7bE312N9-TZBTP3ZJrRXXw_1KQRbdm-
